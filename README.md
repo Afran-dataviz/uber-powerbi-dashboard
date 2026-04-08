@@ -77,7 +77,7 @@ uber-powerbi-dashboard/
 ---
 
 ## 🔗 GitHub Repository
-https://github.com/Afran-dataviz/powerbi-sales-dashboard
+https://github.com/Afran-dataviz/uber-powerbi-dashboard
 
 ---
 
